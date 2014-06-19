@@ -1,0 +1,15 @@
+# Spirale black and white
+# Size 
+512
+# Nb states
+2
+# Nb colors
+2
+# Colors
+255 255 255
+0 0 0
+# Rules
+1 1 1
+1 8 0
+1 2 1 
+0 1 0
