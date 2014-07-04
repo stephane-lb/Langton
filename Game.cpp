@@ -4,6 +4,8 @@
 #include <fstream>
 #include <sstream>
 #include <cstdio> // sscanf
+#include <vector>
+#include <iostream>
 
 Game::Game()
 {
